@@ -73,7 +73,7 @@ body {
 }
 
 .faq-answer {
-    display: non;
+    display: none;
     color: var(--Purple950);
     font-size: 0.9rem;
     font-weight: 500;
@@ -88,6 +88,7 @@ body {
 
 .faq-item {
     border-bottom: 1px solid #ddd;
+    
 }
 
 .img-plus {
